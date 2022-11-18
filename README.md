@@ -34,5 +34,5 @@
 <a href="https://discordapp.com/users/akash_$#1379"> ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)</a>
 <a href="https://twitter.com/AkashTandale6"> ![Twitter](https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter&logoColor=blue)</a>
 <a href="https://www.instagram.com/akash_tandale.11/"> ![Instagram](https://img.shields.io/badge/Instagram-bc2a8d?style=for-the-badge&logo=instagram&logoColor=white)</a>
-
+<a href="https://www.github.com/Akash-Tandale001/"> ![GitHub](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white)</a>
 <br>
